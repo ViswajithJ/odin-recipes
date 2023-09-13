@@ -1,0 +1,37 @@
+body {
+	background-color: rgb(229, 179, 87);
+	/* background-image: url("/assets/background.jpg"); */
+}
+
+.main-head {
+	color: darkblue;
+	text-align: center;
+	font-family: "Sofia", "Verdana", sans-serif;
+	font-size: 75px;
+	font-weight: 800px;
+	margin-bottom: 5px;
+}
+
+hr {
+	border: none;
+	background-color: black;
+	width: 1100px;
+	height: 3px;
+}
+
+.center {
+	text-align: center;
+	width: 50%;
+	margin-left: 450px
+}
+
+.sub-head {
+	color: black;
+	text-align: left;
+	font-family: "Sofia", "Verdana", sans-serif;
+	font-size: 40px;
+}
+
+.list {
+	text-align: left;
+}
