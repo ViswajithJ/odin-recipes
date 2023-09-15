@@ -44,6 +44,7 @@ hr {
 .center {
 	text-align: left;
 	width: 90%;
+	height: 80%;
 	margin-left: 5%;
 }
 
@@ -81,7 +82,7 @@ hr {
 
 .recipe-img {
 	width: 70%;
-	height: auto;
+	height: 30%;
 	margin-left: 15%;
 	margin-right: 15%;
 	margin-top: 2%;
@@ -98,7 +99,8 @@ hr {
 	margin-left: 4%;
 	margin-top: 2%;
 	width: 35%;
-	height: 95vh;
+	/* height: 95vh; */
+	height: auto;
 	border-radius: 20px;
 }
 
@@ -114,7 +116,8 @@ hr {
 	margin-top: 2%;
 	margin-bottom: auto;
 	width: 53%;
-	height: 95vh;
+	/* height: 95vh; */
+	height: auto;
 	border-radius: 20px;
 }
 
